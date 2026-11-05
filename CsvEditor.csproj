@@ -17,4 +17,8 @@
     <ApplicationIcon>app.ico</ApplicationIcon>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Docs\" />
+  </ItemGroup>
+
 </Project>
