@@ -389,5 +389,9 @@ InteropTests/NativeTests/out
 # **/ScratchProject/
 # **/ScratchProjectWithInternals/
 
-*CodeItRight*
+# Ignore CodeItRight folders or reports
+CodeItRight/
+*.CodeItRight.xsl
+*.CodeItRight.xml
+
 Properties/PublishProfiles/
